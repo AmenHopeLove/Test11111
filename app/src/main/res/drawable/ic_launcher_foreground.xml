@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Sophisticated drop shadow for 3D depth -->
+    <path
+        android:fillColor="#15202D"
+        android:pathData="M28,34 L80,34 L80,74 C80,74 54,82 28,74 Z" />
+
+    <!-- Solid modern micro-learning play symbol -->
+    <path
+        android:fillColor="#E280FF"
+        android:pathData="M38,32 L78,54 L38,76 Z" />
+
+    <!-- Academic Cap diamond top overlay, styled in crisp clean lines -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M54,16 L84,28 L54,40 L24,28 Z" />
+
+    <!-- Academic Cap base overlay -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M34,32 L34,48 C34,58 74,58 74,48 L74,32" />
+
+    <!-- Hanging tassel at right, colored in royal yellow-gold -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFC107"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M78,30 L78,44" />
+        
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M78,44 A2,2 0 1 1 74,44 A2,2 0 1 1 78,44" />
+</vector>
